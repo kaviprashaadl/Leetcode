@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/kaviprashaadl/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kaviprashaadl/Leetcode/tree/master/0695-max-area-of-island) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -59,6 +60,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/kaviprashaadl/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kaviprashaadl/Leetcode/tree/master/0695-max-area-of-island) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
