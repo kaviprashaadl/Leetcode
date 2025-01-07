@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kaviprashaadl/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/kaviprashaadl/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kaviprashaadl/Leetcode/tree/master/0012-integer-to-roman) |
 | [0504-base-7](https://github.com/kaviprashaadl/Leetcode/tree/master/0504-base-7) |
 | [1070-convert-to-base-2](https://github.com/kaviprashaadl/Leetcode/tree/master/1070-convert-to-base-2) |
 ## Array
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kaviprashaadl/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0059-spiral-matrix-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/kaviprashaadl/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
