@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kaviprashaadl/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Stack
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kaviprashaadl/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kaviprashaadl/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kaviprashaadl/Leetcode/tree/master/0695-max-area-of-island) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kaviprashaadl/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kaviprashaadl/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kaviprashaadl/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kaviprashaadl/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kaviprashaadl/Leetcode/tree/master/0695-max-area-of-island) |
 ## Simulation
@@ -77,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/kaviprashaadl/Leetcode/tree/master/0012-integer-to-roman) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
