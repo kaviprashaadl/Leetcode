@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/kaviprashaadl/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Stack
 |  |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/kaviprashaadl/Leetcode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
