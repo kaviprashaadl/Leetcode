@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kaviprashaadl/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kaviprashaadl/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0394-decode-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0394-decode-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/kaviprashaadl/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
