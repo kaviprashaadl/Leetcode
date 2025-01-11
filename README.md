@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/kaviprashaadl/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0394-decode-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0394-decode-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/kaviprashaadl/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0394-decode-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Math
 |  |
 | ------- |
