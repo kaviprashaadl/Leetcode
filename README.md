@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0394-decode-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1321-get-equal-substrings-within-budget](https://github.com/kaviprashaadl/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/kaviprashaadl/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
@@ -97,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/kaviprashaadl/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
+## Binary Search
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/kaviprashaadl/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+## Sliding Window
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/kaviprashaadl/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
+## Prefix Sum
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/kaviprashaadl/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
