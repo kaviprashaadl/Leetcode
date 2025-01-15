@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kaviprashaadl/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/kaviprashaadl/Leetcode/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/kaviprashaadl/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0394-decode-string) |
 ## String
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kaviprashaadl/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/kaviprashaadl/Leetcode/tree/master/0044-wildcard-matching) |
 | [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kaviprashaadl/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0394-decode-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0394-decode-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kaviprashaadl/Leetcode/tree/master/0044-wildcard-matching) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/kaviprashaadl/Leetcode/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Binary Search
 |  |
@@ -116,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kaviprashaadl/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/kaviprashaadl/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
