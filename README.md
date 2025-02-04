@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/kaviprashaadl/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/kaviprashaadl/Leetcode/tree/master/0200-number-of-islands) |
+| [0312-burst-balloons](https://github.com/kaviprashaadl/Leetcode/tree/master/0312-burst-balloons) |
 | [0695-max-area-of-island](https://github.com/kaviprashaadl/Leetcode/tree/master/0695-max-area-of-island) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## Two Pointers
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kaviprashaadl/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/kaviprashaadl/Leetcode/tree/master/0044-wildcard-matching) |
+| [0312-burst-balloons](https://github.com/kaviprashaadl/Leetcode/tree/master/0312-burst-balloons) |
 ## Monotonic Stack
 |  |
 | ------- |
