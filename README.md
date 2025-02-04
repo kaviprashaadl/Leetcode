@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kaviprashaadl/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/kaviprashaadl/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kaviprashaadl/Leetcode/tree/master/0695-max-area-of-island) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1321-get-equal-substrings-within-budget](https://github.com/kaviprashaadl/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 ## Sliding Window
 |  |
