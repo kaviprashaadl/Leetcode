@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaviprashaadl/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0394-decode-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Math
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kaviprashaadl/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kaviprashaadl/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaviprashaadl/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/kaviprashaadl/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/kaviprashaadl/Leetcode/tree/master/0695-max-area-of-island) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/kaviprashaadl/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/kaviprashaadl/Leetcode/tree/master/0044-wildcard-matching) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kaviprashaadl/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
