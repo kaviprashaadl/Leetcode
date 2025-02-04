@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/kaviprashaadl/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/kaviprashaadl/Leetcode/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->
