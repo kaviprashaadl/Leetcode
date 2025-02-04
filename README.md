@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/kaviprashaadl/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/kaviprashaadl/Leetcode/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kaviprashaadl/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0394-decode-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kaviprashaadl/Leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/kaviprashaadl/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0695-max-area-of-island](https://github.com/kaviprashaadl/Leetcode/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kaviprashaadl/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/kaviprashaadl/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0282-expression-add-operators](https://github.com/kaviprashaadl/Leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/kaviprashaadl/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
