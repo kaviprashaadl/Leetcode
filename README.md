@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviprashaadl/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/kaviprashaadl/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0841-shortest-distance-to-a-character](https://github.com/kaviprashaadl/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 ## String Matching
 |  |
@@ -138,4 +139,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0262-trips-and-users](https://github.com/kaviprashaadl/Leetcode/tree/master/0262-trips-and-users) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/kaviprashaadl/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/kaviprashaadl/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/kaviprashaadl/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/kaviprashaadl/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
